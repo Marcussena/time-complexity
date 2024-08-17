@@ -1,9 +1,9 @@
 # Time Complexity Analysis with Python
-### Overview
+## Overview
 Welcome to the Time Complexity Analysis with Python repository! This project provides a comprehensive guide for understanding, visualizing, and analyzing the growth rates of common algorithms and data structures. The primary focus is on demonstrating how time complexity influences the performance of different operations, helping you make informed decisions when designing and optimizing your code.
 
-### What's Inside
-This repository includes:
+## What's Inside
+### This repository includes:
 
 Jupyter Notebook: A detailed notebook that walks you through the process of plotting and analyzing the time complexity of various algorithms and data structures. You'll find code examples, explanations, and visualizations that illustrate key concepts like constant, logarithmic, linear, linearithmic, quadratic, and exponential time complexities.
 Python Scripts: Additional Python scripts that showcase examples of different algorithms and data structures, highlighting their time complexities in practice.
@@ -17,10 +17,8 @@ Jupyter Notebook
 Common Python libraries such as matplotlib, numpy, and timeit.
 You can install the required packages using pip:
 
-bash
-Copiar código
-pip install numpy matplotlib jupyter
-Running the Notebook
+git clone https://github.com/yourusername/time-complexity-analysis.git
+
 Clone the repository to your local machine:
 
 bash
