@@ -12,7 +12,7 @@ Getting Started
 Prerequisites
 To run the Jupyter Notebook and scripts in this repository, you'll need:
 
-Python 3.x
+Python 3.x <br/>
 Jupyter Notebook
 Common Python libraries such as matplotlib, numpy, and timeit.
 You can install the required packages using pip:
