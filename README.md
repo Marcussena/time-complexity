@@ -17,24 +17,7 @@ Jupyter Notebook
 Common Python libraries such as matplotlib, numpy, and timeit.
 You can install the required packages using pip:
 
-git clone https://github.com/yourusername/time-complexity-analysis.git
-
-Clone the repository to your local machine:
-
-bash
-Copiar código
-git clone https://github.com/yourusername/time-complexity-analysis.git
-Navigate to the project directory:
-
-bash
-Copiar código
-cd time-complexity-analysis
-Launch Jupyter Notebook:
-
-bash
-Copiar código
-jupyter notebook
-Open the Time_Complexity_Analysis.ipynb notebook and follow the guide.
+```pip install numpy matplotlib jupyter ```
 
 Features
 Interactive Plots: Visualize the growth rate of different algorithms as you adjust input sizes and analyze the impact on performance.
