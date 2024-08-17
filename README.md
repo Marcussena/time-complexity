@@ -17,7 +17,7 @@ Jupyter Notebook <br/>
 Common Python libraries such as matplotlib, numpy, and timeit. <br/>
 You can install the required packages using pip:
 
-```pip install numpy matplotlib jupyter ```
+```pip install numpy matplotlib jupyter ``` <br/>
 Running the Notebook
 1. Clone the repository to your local machine:
 ```git clone https://github.com/yourusername/time-complexity.git```
