@@ -13,13 +13,21 @@ Prerequisites
 To run the Jupyter Notebook and scripts in this repository, you'll need:
 
 Python 3.x <br/>
-Jupyter Notebook
-Common Python libraries such as matplotlib, numpy, and timeit.
+Jupyter Notebook <br/>
+Common Python libraries such as matplotlib, numpy, and timeit. <br/>
 You can install the required packages using pip:
 
 ```pip install numpy matplotlib jupyter ```
+Running the Notebook
+1. Clone the repository to your local machine:
+```git clone https://github.com/yourusername/time-complexity.git```
+2. Navigate to the project directory:
+```cd time-complexity```
+3. Launch Jupyter Notebook:
+```jupyter notebook```
+4. Open the Time_complexity_notebook.ipynb notebook and follow the guide.
 
-Features
+## Features
 Interactive Plots: Visualize the growth rate of different algorithms as you adjust input sizes and analyze the impact on performance.
 Code Examples: Understand how various algorithms behave by observing their time complexity in real-time with sample code snippets.
 In-depth Explanations: Each section includes detailed explanations of the concepts and algorithms covered, ensuring that you not only see the results but also understand the underlying principles.
